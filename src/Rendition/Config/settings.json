@@ -1,0 +1,30 @@
+{
+  "modelPath": "",
+  "defaultTargetLanguage": "English",
+  "defaultFlavor": "Casual",
+  "gpuLayerCount": 35,
+  "contextSize": 4096,
+  "maxTokens": 1024,
+  "temperature": 0.7,
+  "topP": 0.9,
+  "supportedLanguages": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "Korean",
+    "French",
+    "German",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "Russian",
+    "Arabic",
+    "Thai",
+    "Vietnamese",
+    "Indonesian",
+    "Dutch",
+    "Polish",
+    "Turkish",
+    "Swedish"
+  ]
+}

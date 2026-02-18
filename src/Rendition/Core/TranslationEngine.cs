@@ -58,7 +58,7 @@ public sealed class TranslationEngine : IDisposable
             SystemMessage = flavor.SystemPrompt,
         };
 
-        var userPrompt = $"Translate the following text to {targetLanguage}:\n\n{inputText}";
+        var userPrompt = $"Translate to {targetLanguage}. Preserve all meaning accurately.\n\n{inputText}";
 
         var inferenceParams = new InferenceParams
         {

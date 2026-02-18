@@ -1,5 +1,5 @@
 {
-  "modelPath": "",
+  "modelPath": "E:\\dev\\Rendition\\models\\Qwen2.5-1.5B-Instruct-uncensored.Q4_K_M.gguf",
   "defaultTargetLanguage": "English",
   "defaultFlavor": "Casual",
   "gpuLayerCount": 35,
